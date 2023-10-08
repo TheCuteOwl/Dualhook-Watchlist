@@ -20,6 +20,7 @@ Our mission is to maintain a comprehensive list of known dualhook creators, thei
 | Starting        | [Profile1](link1)       | [Webhook1](webhook1)              |
 
 
+
 ## Contributing
 
 If you have information about dualhooks or individuals involved in their creation, please consider contributing to our registry. To contribute, follow these steps:
@@ -30,6 +31,11 @@ If you have information about dualhooks or individuals involved in their creatio
 
 Your contributions will help us maintain an up-to-date record of potential security threats.
 
+## How to find them easily
+
+1. Go on github and search for "Discord Stealer", "Nitro Generator", "Token Generator" and search for the most recent one
+2. Then look in the code for any dualhook
+   
 ## Join the Dualhook Detectives
 
 Join us in our efforts to safeguard online spaces and raise awareness about the risks posed by dualhooks. Together, we can contribute to a safer and more secure online environment for all users.
