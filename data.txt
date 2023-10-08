@@ -1,1 +1,2 @@
-NewLayer0 - ; Technique - 12 differents https://rentry.co/ URL, using WASP Injector, Stealer used : Wasp Stealer V2 | https://github.com/Im4wasp/W4SP-Stealer-V2/
+NewLayer0 - Python ; Technique - 1 https://rentry.co/ URL for everything, using WASP Injector, Stealer used : Wasp Stealer V2 | https://github.com/Im4wasp/W4SP-Stealer-V2/
+doenerium6969 - Javascript Badly hidden webhook - Just send everything through one of his webhook
