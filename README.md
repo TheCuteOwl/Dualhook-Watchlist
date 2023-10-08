@@ -20,6 +20,7 @@ FOR MORE PRECISE INFORMATION CHECK DATA.TXT
 | Username         | Link                                             | Reason                                                  | Webhook                                                   | Banned (✅/❌)                    | Repository dualhooked 
 |--------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------|-------------|-------------
 | NewLayer0        | [NewLayer0](https://github.com/NewLayer0)       | Dualhook using ; technique                               | [URL](https://discord.com/api/webhooks/1159928393127710720/ChcWfMhVZdOeQQqU3IhNswVlalSMF_Eiat6_FTiXRB8wlzpLyuXeEMrTe253grQNPjQn)|❌|12
+|doenerium6969|[doenerium6969](https://github.com/doenerium6969)|Hidden HEX encoded Webhook| [URL](https://discord.com/api/webhooks/1158529324488593438/3PgdY7-YMVzYLynTCR7glb00plYwRdayl9MssT8nCyZTJaqP0WwQok1ClNIsQ6L7F_JI)|❌|1
 
 
 
