@@ -1,5 +1,9 @@
 
 <p align="center">
+  Dualhook Watchlist
+</p>
+
+<p align="center">
   Support URL : https://discord.gg/SKGjXfmFga
 </p>
 
@@ -11,8 +15,8 @@ Our mission is to maintain a comprehensive list of known dualhook creators, thei
 
 ## User Registry
 
-| Pseudo       | Link                    | Webhook                           |
-|--------------|-------------------------|-----------------------------------|
+| Pseudo       | Link                    | Webhook                           |Banned (✅/❌
+|--------------|-------------------------|-----------------------------------|-------------
 | Starting        | [Profile1](link1)       | [Webhook1](webhook1)              |
 
 
