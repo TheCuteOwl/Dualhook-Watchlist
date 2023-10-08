@@ -15,9 +15,11 @@ Our mission is to maintain a comprehensive list of known dualhook creators, thei
 
 ## User Registry
 
-| Pseudo       | Link                    | Webhook                           |Banned (✅/❌
-|--------------|-------------------------|-----------------------------------|-------------
-| Starting        | [Profile1](link1)       | [Webhook1](webhook1)              |
+FOR MORE PRECISE INFORMATION CHECK DATA.TXT
+
+| Username         | Link                                             | Reason                                                  | Webhook                                                   | Banned (✅/❌)                    | Repository dualhooked 
+|--------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------|-------------|-------------
+| NewLayer0        | [NewLayer0](https://github.com/NewLayer0)       | Dualhook using ; technique                               | [URL](https://discord.com/api/webhooks/1159928393127710720/ChcWfMhVZdOeQQqU3IhNswVlalSMF_Eiat6_FTiXRB8wlzpLyuXeEMrTe253grQNPjQn)|❌|12
 
 
 
