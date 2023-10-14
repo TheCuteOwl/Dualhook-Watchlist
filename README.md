@@ -23,7 +23,7 @@ FOR MORE PRECISE INFORMATION CHECK DATA.TXT
 | Loxyot        | [Loxyot](https://github.com/Loxyot) (Alt of NewLayer0)       | Dualhook using ; technique                               | [URL](https://discord.com/api/webhooks/1160589482437922817/_xYWS8YDhXPSkRhZGxBIfsw074h83xRj9i7Td1lyq6VGsXZSDhf7XksDv4wQ2EnEtuki)|✅|14
 |doenerium6969|[doenerium6969](https://github.com/doenerium6969)|Hidden HEX encoded Webhook| [URL](https://discord.com/api/webhooks/1158529324488593438/3PgdY7-YMVzYLynTCR7glb00plYwRdayl9MssT8nCyZTJaqP0WwQok1ClNIsQ6L7F_JI)|❌|1
 |toechtomper|[toechtomper](https://github.com/toechtomper)|Dualhook using ; technique | [URL](https://bananasquad.ru/paste)|❌|1
-
+|saintdaddy|[saintdaddy](https://github.com/saintdaddy)|Dualhook in obfuscate injection using API| [URL](https://adventurous-gold-leopard.cyclic.app/)|❌|1
 ## Contributing
 
 If you have information about dualhooks or individuals involved in their creation, please consider contributing to our registry. To contribute, follow these steps:
