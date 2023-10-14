@@ -2,3 +2,4 @@ NewLayer0 - Python ; Technique - 1 https://rentry.co/ URL for everything, using 
 doenerium6969 - Javascript Badly hidden webhook - Just send everything through one of his webhook
 toechtomper - Python ; Technique - 1 custom URL for everything https://bananasquad.ru/paste/https://bananasquad.ru/downloadhandler and Exodus, using Custom WASP Injector, Stealer used : Custom WASP 
 Loxyot (Alt of NewLayer0) - Python ; Technique - 1 https://rentry.co/ URL for everything, using WASP Injector, Stealer used : Wasp Stealer V2 | https://github.com/Im4wasp/W4SP-Stealer-V2/
+saintdaddy - Javascript dualhook injection - 1 https://www.cyclic.sh/ (host website) url : https://adventurous-gold-leopard.cyclic.app/ | Used modified Hazard injection
