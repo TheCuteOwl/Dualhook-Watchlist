@@ -25,6 +25,8 @@ FOR MORE PRECISE INFORMATION CHECK DATA.TXT
 |toechtomper|[toechtomper](https://github.com/toechtomper)|Dualhook using ; technique | [URL](https://bananasquad.ru/paste)|❌|1
 |2299pg62|[2299pg62](https://github.com/2299pg62) (Alt of toechtomper) |Dualhook using ; technique | [URL](https://bananasquad.ru/paste)|❌|1
 |saintdaddy|[saintdaddy](https://github.com/saintdaddy)|Dualhook in obfuscate injection using API| [URL](https://adventurous-gold-leopard.cyclic.app/)|❌|1
+|frankxrs|[frankxrs](https://github.com/frankxrs)|Dualhook using fernet decryption, using; technique, Executing a batch file with anti VM | [URL](https://textbin.net/raw/gr2vzmwcvt)|❌|1
+
 ## Contributing
 
 If you have information about dualhooks or individuals involved in their creation, please consider contributing to our registry. To contribute, follow these steps:
