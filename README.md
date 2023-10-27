@@ -25,7 +25,7 @@ FOR MORE PRECISE INFORMATION CHECK DATA.TXT
 |toechtomper|[toechtomper](https://github.com/toechtomper)|Dualhook using ; technique | [URL](https://bananasquad.ru/paste)|❌|1
 |2299pg62|[2299pg62](https://github.com/2299pg62) (Alt of toechtomper) |Dualhook using ; technique | [URL](https://bananasquad.ru/paste)|✅|1
 |saintdaddy|[saintdaddy](https://github.com/saintdaddy)|Dualhook in obfuscate injection using API| [URL](https://adventurous-gold-leopard.cyclic.app/)|❌|1
-|frankxrs|[frankxrs](https://github.com/frankxrs)|Dualhook using fernet decryption, using; technique, Executing a batch file with anti VM | [URL](https://textbin.net/raw/gr2vzmwcvt)|❌|2
+|frankxrs|[frankxrs](https://github.com/frankxrs)|Dualhook using fernet decryption, using; technique, Executing a batch file with anti VM | [URL](https://textbin.net/raw/gr2vzmwcvt)|✅|2
 |VerifiedPealz|[VerifiedPealz](https://github.com/VerifiedPealz)|Dualhook using base64, just hiding it bad | [URL](https://discord.com/api/webhooks/1138581253428350976/2oVBi1QHERwOlrjKQG0l_rwOVCAJ2qimz7RxZc3ke01D3l6qM6dj_BKWyTwloFWBVf2d)|❌|1
 
 
