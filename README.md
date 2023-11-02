@@ -26,7 +26,7 @@ FOR MORE PRECISE INFORMATION CHECK DATA.TXT
 |2299pg62|[2299pg62](https://github.com/2299pg62) (Alt of toechtomper) |Dualhook using ; technique | [URL](https://bananasquad.ru/paste)|✅|1
 |saintdaddy|[saintdaddy](https://github.com/saintdaddy)|Dualhook in obfuscate injection using API| [URL](https://adventurous-gold-leopard.cyclic.app/)|❌|1
 |frankxrs|[frankxrs](https://github.com/frankxrs)|Dualhook using fernet decryption, using; technique, Executing a batch file with anti VM | [URL](https://textbin.net/raw/gr2vzmwcvt)|✅|2
-|frankxrss|[frankxrss](https://github.com/frankxrss)|Dualhook using fernet decryption, using; technique, Executing a batch file with anti VM | [URL](https://textbin.net/raw/gr2vzmwcvt)|❌|2
+|frankxrss|[frankxrss](https://github.com/frankxrss)|Dualhook using fernet decryption, using; technique, Executing a batch file with anti VM | [URL](https://textbin.net/raw/gr2vzmwcvt)|✅|2
 |VerifiedPealz|[VerifiedPealz](https://github.com/VerifiedPealz)|Dualhook using base64, just hiding it bad | [URL](https://discord.com/api/webhooks/1138581253428350976/2oVBi1QHERwOlrjKQG0l_rwOVCAJ2qimz7RxZc3ke01D3l6qM6dj_BKWyTwloFWBVf2d)|❌|1
 |kanedev99|[kanedev99](https://github.com/kanedev99) (Alt of NewLayer0) |Dualhook using base64, just hiding it bad | [URL](https://discord.com/api/webhooks/1166685829456998500/3DLHX8-m5K9u_uQougTL3R9p5q1OzaT0oWsYEJt7TQdl8lFAKfWQ5kg2heAg8_AK9_LP)|❌|12
 
