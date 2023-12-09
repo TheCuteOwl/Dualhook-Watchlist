@@ -16,6 +16,7 @@ Our mission is to maintain a comprehensive list of known dualhook creators, thei
 ## User Registry
 
 FOR MORE PRECISE INFORMATION CHECK DATA.TXT
+
 | Username | Link | Reason | files dualhooked | detected line 
 |----------|------|--------|---------|-
 | poink0411 | https://github.com/poink0411/Discord-Token-Grabber | Unsafe |[File URL](https://raw.githubusercontent.com/poink0411/Discord-Token-Grabber/main/main.py) | Line 6: WEBHOOK="https://discord.com/api/webhooks/[webhookcode]"
@@ -96,4 +97,3 @@ Your contributions will help us maintain an up-to-date record of potential secur
 ## Join the Dualhook Detectives
 
 Join us in our efforts to safeguard online spaces and raise awareness about the risks posed by dualhooks. Together, we can contribute to a safer and more secure online environment for all users.
-
