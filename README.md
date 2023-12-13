@@ -1,4 +1,3 @@
-
 <p align="center">
   Dualhook Watchlist
 </p>
